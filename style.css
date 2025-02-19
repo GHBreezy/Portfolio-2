@@ -1,0 +1,13 @@
+body {
+    font: Arial, sans-serif;
+  
+}
+
+.nav-items {
+    display: flex;
+    list-style-type: none;
+    padding: 0;
+    align-items: center;
+    margin: 0;
+    margin-left: auto;
+}
